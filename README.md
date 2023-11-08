@@ -6,7 +6,7 @@ Erjon Hulaj
 
 ## Leit-Satz
 
-Ich werde heute am Portfolio vom 319 Modul arbeiten und repetition in Visual Studio
+
 
 ## Arbeitspakete für 20.10.2023
 
