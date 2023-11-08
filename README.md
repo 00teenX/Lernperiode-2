@@ -43,7 +43,7 @@ Am 03.11.2023 habe ich meine geplanten Arbeitspakete erfolgreich bewältigt. Zun
 ## Arbeitspakete für 10.11.2023
 
 - [ ]  Windows Forms besser kennenlernen und sich damit auseinander setzen
-- [ ]  Programmierprojekt starten
+- [ ]  Programmierprojekt weiter machen
 - [ ]  Am M162 Modul arbeiten
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
