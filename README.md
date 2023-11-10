@@ -42,9 +42,10 @@ Am 03.11.2023 habe ich meine geplanten Arbeitspakete erfolgreich bewältigt. Zun
 
 ## Arbeitspakete für 10.11.2023
 
-- [ ]  Windows Forms besser kennenlernen und sich damit auseinander setzen
+- [x]  Windows Forms besser kennenlernen und sich damit auseinander setzen
 - [ ]  Programmierprojekt weiter machen
-- [ ]  Am M162 Modul arbeiten
+- [x]  Am M162 Modul arbeiten
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
+Mein Fortschritt bei Windows Forms ist gut, und ich habe heute viel gelernt. Das wird mir in zukünftigen Projekten sicherlich nützlich sein. Leider konnte ich in meinem aktuellen Programm nicht weiter machen, wie ich es geplant hatte, weil ich am Mittwoch krank war und nicht am Modul 162 arbeiten konnte. Die Arbeit am M162 Modul verlief positiv, und ich konnte einige wichtige Schritte vorankommen. Es war ein insgesamt produktiver Tag. [70 Wörter]
