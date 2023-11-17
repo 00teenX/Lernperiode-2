@@ -52,6 +52,10 @@ Mein Fortschritt bei Windows Forms ist gut, und ich habe heute viel gelernt. Das
 
 ## Arbeitspakete für 17.11.2023
 
-- [ ]  Design für den Marchzinsrechner in Forms
-- [ ]  Code für die Forms anwendung
-- [ ]  Dokumentation zum erarbeiteten machen
+- [x]  Design für den Marchzinsrechner in Forms
+- [x]  Code für die Forms anwendung
+- [x]  Dokumentation zum erarbeiteten machen
+
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+Heute habe ich an den festgelegten Arbeitspaketen gearbeitet. Das Design für den Marchzinsrechner in Forms wurde gemacht, wobei ich mich auf eine benutzerfreundliche Gestaltung konzentrierte. Der Code für die Anwendung ist fast fertig. Zusätzlich habe ich eine Dokumentation verfasst, die den Entwicklungsprozess und die Funktionalität des Marchzinsrechners ausführlich beschreibt. [50 Wörter]
