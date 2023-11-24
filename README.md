@@ -60,6 +60,19 @@ Mein Fortschritt bei Windows Forms ist gut, und ich habe heute viel gelernt. Das
 
 Heute habe ich an den festgelegten Arbeitspaketen gearbeitet. Das Design für den Marchzinsrechner in Forms wurde gemacht, wobei ich mich auf eine benutzerfreundliche Gestaltung konzentrierte. Der Code für die Anwendung ist fast fertig. Zusätzlich habe ich eine Dokumentation verfasst, die den Entwicklungsprozess und die Funktionalität des Marchzinsrechners ausführlich beschreibt. [50 Wörter]
 
+```csharp
+
+using (StreamWriter writer = new StreamWriter(filePath))
+{
+    writer.WriteLine($"Kaufdatum: {kaufDatum.Text}");
+    writer.WriteLine($"Verkaufsdatum: {verkaufsDatum.Text}");
+    writer.WriteLine($"Kapital: {kapital.Text}");
+    writer.WriteLine($"Zinssatz: {zinsSatz.Text}");
+    writer.WriteLine($"Marchzins: {marchZins.Text}");
+}
+```
+
+
 ## Arbeitspakete für 17.11.2023
 
 - [ ]  M162 weiterarbeiten
