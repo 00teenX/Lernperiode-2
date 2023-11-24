@@ -62,18 +62,10 @@ Heute habe ich an den festgelegten Arbeitspaketen gearbeitet. Das Design für de
 
 ```csharp
 
-using (StreamWriter writer = new StreamWriter(filePath))
-{
-    writer.WriteLine($"Kaufdatum: {kaufDatum.Text}");
-    writer.WriteLine($"Verkaufsdatum: {verkaufsDatum.Text}");
-    writer.WriteLine($"Kapital: {kapital.Text}");
-    writer.WriteLine($"Zinssatz: {zinsSatz.Text}");
-    writer.WriteLine($"Marchzins: {marchZins.Text}");
-}
 ```
 
 
-## Arbeitspakete für 17.11.2023
+## Arbeitspakete für 24.11.2023
 
 - [ ]  M162 weiterarbeiten
 - [ ]  Code für die Forms anwendung weitermachen
