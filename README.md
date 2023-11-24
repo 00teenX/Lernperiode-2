@@ -68,7 +68,18 @@ Heute habe ich an den festgelegten Arbeitspaketen gearbeitet. Das Design für de
 ## Arbeitspakete für 24.11.2023
 
 - [ ]  M162 weiterarbeiten
-- [ ]  Code für die Forms anwendung weitermachen
+- [x]  Code für die Forms anwendung weitermachen
+- [x]  Dokumentation zum erarbeiteten machen
+
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+Heute habe ich nicht am Modul 162 gearbeitet, da ich beschäftigt war mit der Dokumentation und ich versucht habe einen API in den Code einzubauen. Das mit der API ist schwierig, da ich jetzt herausfinden muss, wie ich nur den Zinssatz rausbekomme. Das werde ich nächstes mal sicher versuchen und hoffe, dass das Programmierprojekt bald fertig ist. [58 Wörter]
+
+## Arbeitspakete für 01.12.2023
+
+- [ ]  API Zinssatz rausfischen
+- [ ]  Den ausgegebenen Zinssatz in der Zinssatzbox anzeigen lassen
 - [ ]  Dokumentation zum erarbeiteten machen
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
