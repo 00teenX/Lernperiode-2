@@ -257,8 +257,20 @@ namespace Marchzins_Berechner
 
 ## Arbeitspakete für 08.12.2023
 
-- [ ]  Planung für Notenberechner
-- [ ]  Notenberechner programmieren für Forms
-- [ ]  Design machen für Forms
+- [x]  M117 Auftrag 1703
+- [x]  M117 Auftrag 1704
+- [x]  M117 Auftrag 1705
+- [x]  M117 Auftrag 1706
+
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+Ich habe heute an Modul 117 gearbeitet, weil ich ein bisschen feststeckte. Es lief ziemlich gut, und ich konnte alle Punkte in den Moodle Tests erreichen. Ich bin zufrieden mit meiner Arbeit. Es war schwierig, aber ich habe mein Bestes gegeben. Das hat mir geholfen, mehr zu verstehen und hat mich ermutigt, weiterzumachen. [51 Wörter]
+
+## Arbeitspakete für 15.12.2023
+
+- [x]  M117 Aufträge erledigen
+- [x]  M117 Auftrag 1710
+- [x]  M117 Auftrag 1711
+- [x]  M117 Auftrag 1712
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
