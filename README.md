@@ -274,3 +274,13 @@ Ich habe heute an Modul 117 gearbeitet, weil ich ein bisschen feststeckte. Es li
 - [x]  M117 Auftrag 1712
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+Heute habe ich am Modul 117 gearbeitet. Es lief sehr gut. Ich konnte alle Moodle Tests erfolgreich abschliessen mit voller Punktzahl. Beim Auftrag 1711 hatte ich etwas nicht verstanden und da brauchte ich ein bisschen länger, aber danach gings. Ich hatte die Frage und Aufgabe im ersten Auftrag nicht verstanden. Ich denke nächstes mal fange ich mit dem Programmierprojekt an, dass ich selber erstellen möchte. Im Moment weiss ich aber noch nicht was für eins. [75 Wörter]
+
+## Arbeitspakete für 22.12.2023
+
+- [ ]  Programmierprojekt planen (Snake oder Pacman)
+- [ ]  Tutorial anschauen
+- [ ]  Programmieren starten
+
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
