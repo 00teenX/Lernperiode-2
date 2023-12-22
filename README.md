@@ -124,4 +124,4 @@ Um meine Arbeit besser zu organisieren, habe ich mir angewöhnt, klare Ziele zu 
 
 Diese Phase der Arbeit hat mir verdeutlicht, dass ich mein Zeitmanagement weiter verbessern kann, insbesondere im Umgang mit unvorhersehbaren Situationen. Ich erkannte, dass eine ausgewogene Planung und gleichzeitig Flexibilität wichtig sind, um effizienter zu arbeiten und besser auf Veränderungen reagieren zu können.
 
-Insgesamt war diese Zeit eine wertvolle Lernerfahrung, die mich herausgefordert und gleichzeitig mein Verständnis und meine Fähigkeiten erweitert hat. Ich betrachte diese Erfahrungen als wichtigen Schritt in meiner persönlichen und beruflichen Entwicklung und freue mich darauf, diese Erkenntnisse in kommenden Projekten weiter anzuwenden.
+Insgesamt war diese Zeit eine wertvolle Lernerfahrung, die mich herausgefordert und gleichzeitig mein Verständnis und meine Fähigkeiten erweitert hat. Ich betrachte diese Erfahrungen als wichtigen Schritt in meiner persönlichen und beruflichen Entwicklung und freue mich darauf, diese Erkenntnisse in kommenden Projekten weiter anzuwenden. [214 Wörter]
