@@ -116,7 +116,8 @@ Heute habe ich am Modul 117 gearbeitet. Es lief sehr gut. Ich konnte alle Moodle
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
-Reflexion
+## Reflexion 2. Lernperiode
+
 In den vergangenen Wochen habe ich mich intensiv an verschiedenen Bereichen gearbeitet. Ein Projekt, an dem ich gearbeitet habe, war die Entwicklung des Marchzinsrechners. Dabei habe ich zahlreiche neue Fähigkeiten erlernt und mich in der Anwendung von Windows Forms sowie der Integration von APIs vertieft. Es war eine herausfordernde Aufgabe, die mich jedoch enorm weitergebracht hat. Während dieses Projekts bin ich auf verschiedene Probleme gestoßen, die ich Schritt für Schritt analysiert und gelöst habe.
 
 Um meine Arbeit besser zu organisieren, habe ich mir angewöhnt, klare Ziele zu setzen und diese in kleine, handhabbare Aufgaben zu unterteilen. Dieser Ansatz half mir, meinen Fokus zu schärfen und meine Produktivität zu steigern. Trotzdem musste ich lernen, flexibel zu sein, da unerwartete Ereignisse meinen Zeitplan beeinflussten und ich meine Prioritäten neu ordnen musste.
